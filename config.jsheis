@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'He luuu Quân!',
-    introDesc: `bé Tuyết Nhung của anh nè chớp mắt thì em đã lạc vào tim anh cũng đã được 9 tháng òi <3,
+    introDesc: 'bé Tuyết Nhung của anh nè chớp mắt thì em đã lạc vào tim anh cũng đã được 9 tháng òi <3,
     btnIntro: 'Bắt đầu hoiii',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên',
     desc: 'Lần đầu tiên gặp anh em có suy nghĩ gì? :>> ',
