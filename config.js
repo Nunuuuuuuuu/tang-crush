@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'He luuu Quân!',
-    introDesc: `Tuyết Nhung của anh nè chớp mắt thì em đã lạc vào tim anh cũng đã được 9 tháng òi <3,
+    introDesc: `bé Tuyết Nhung của anh nè chớp mắt thì em đã lạc vào tim anh cũng đã được 9 tháng òi <3,
     btnIntro: 'Bắt đầu hoiii',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên',
     desc: 'Lần đầu tiên gặp anh em có suy nghĩ gì? :>> ',
@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bé <3',
     reply: 'Tại bé cutee phô mai que, xinh đẹp tuyệt trần <33333333',
     mess: 'Cảm ơn anh vì đã đến. Yêu anh nhiều nhiều 😘😘',
-    messDesc: 'Nếu cảm thấy thích món quà của bé thì giờ thơm bé đi nè.',
+    messDesc: 'Gặp nhau anh sẽ có quà nha. Còn bây giờ thì thơm em đi nè',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/tuyetnhung191999'
 }
