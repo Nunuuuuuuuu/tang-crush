@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bé <3',
     reply: 'Tại bé cutee phô mai que, xinh đẹp tuyệt trần <33333333',
     mess: 'Cảm ơn anh vì đã đến. Yêu anh nhiều nhiều 😘😘',
-    messDesc: 'Gặp nhau anh sẽ có quà nha. Còn bây giờ thì thơm em đi nè',
+    messDesc: 'Gặp nhau anh sẽ có quà nha. Còn bây giờ thì thơm em đi nè :>',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/tuyetnhung191999'
 }
