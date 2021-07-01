@@ -1,12 +1,9 @@
 const CONFIG = {
-    introTitle: 'Anhh eooo à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Lần đầu tiên gặp anh em có suy nghĩ gì :>> ',
+    introTitle: 'He luuu Quân!',
+    introDesc: `Tuyết Nhung của anh nè chớp mắt thì em đã lạc vào tim anh cũng đã được 9 tháng òi <3,
+    btnIntro: 'Bắt đầu hoiii',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên',
+    desc: 'Lần đầu tiên gặp anh em có suy nghĩ gì? :>> ',
     btnYes: 'Anh là con heooo thúi <3',
     btnNo: 'Đẹp trai siêu cấp vip pro :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu bé <3',
